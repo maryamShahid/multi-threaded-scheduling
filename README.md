@@ -14,14 +14,14 @@ $ make
 $ ./schedule 375 100 200 1000 1500 FCFS
 ```
 
-### Reading the CPU bursts and interarrival times from a file
+### Reading CPU bursts and interarrival times from a file
 ```
 $ ./schedule <N> <ALG> -f <inprefix>
 ```
 
 Example run
 ```
-$ ./schedule 5 FCFS -f infile
+$ ./schedule 4 FCFS -f infile
 ```
 
 ## How to Use:
