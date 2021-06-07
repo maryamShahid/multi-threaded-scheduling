@@ -1,1 +1,1 @@
-# cpu-scheduler-simulator
+# Multithreaded Scheduling Simulator
