@@ -26,6 +26,9 @@ $ ./schedule 375 100 200 1000 1500 FCFS
 ```
 $ ./schedule <N> <ALG> -f <inprefix>
 ```
+- N is the number of files
+- ALG specifies the scheduling algorithm to use from “FCFS”, “SJF”, “PRIO”, “VRUNTIME”. 
+- inprefix is the infile prefix of the files to read burst information from
 
 Example run
 ```
